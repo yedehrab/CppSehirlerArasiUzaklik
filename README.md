@@ -1,6 +1,8 @@
-# CppSehirlerArasiUzaklik
+
 ÖDEV-3
+
 Arş.Gör. Şeyma Yücel Altay (Teslim Tarihi: 31.05.2018)
+
 Bu ödevde, C++ ile Türkiye’deki şehirlerarası mesafenin km bazında listelenmesi, arama yapılabilmesine yönelik uygulama istenmektedir.
 •	Ödev,  dosyada bulunan boyutu belli olmayan şehir dosyasına göre, şehirlerin birbiri ile olan uzaklık mesafelerini göstermek için kullanılacaktır.
 •	Ekler kısmında verilen dosya formatına göre “Sehirler.dat” dosyasını girdi kullanarak ilgili şehirlerin sistem yüklenmesi gerçekleştirilecektir. (Aşağıdaki girdi dosyası haricinde dosya kullanmayınız değerlendirme aşağıdaki dosyaya göre yapılacaktır)
@@ -78,7 +80,6 @@ Konya	347	302	932	339	711	557	1134	0	1224	367
 Van	888	1497	379	1436	1661	1775	360	1224	0	1014
 Yozgat	443	676	661	456	661	809	862	367	1014	0
 Örneğin: bu tabloya göre Erzurum- İzmir arası: 1467 km’dir.
-
 
 
 
